@@ -27,7 +27,7 @@
     - 意志力
 * quitting smoking
     - 戒烟
-* based on
+* be based on
     - 根据
 * statistics
     - 数据统计
